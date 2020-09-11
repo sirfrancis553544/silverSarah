@@ -206,8 +206,7 @@ text-align: right;
   border-radius: 20px;
   color: #ffffff;
   border: 0;
-display: none;
- 
+  display: none;
 }
 .silver a {
   text-decoration: none;
@@ -218,6 +217,6 @@ display: none;
   text-align: center;
   padding-bottom: 3px;
   padding-top:0;
-display: none;
+  display: none;
 }
 }
