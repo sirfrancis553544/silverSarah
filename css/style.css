@@ -200,6 +200,5 @@ text-align: right;
     font-size: 1.2rem;
   }
 #silver{
- word-wrap: break-word;
-}
+ display: none;
 }
