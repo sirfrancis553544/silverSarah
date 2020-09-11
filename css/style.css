@@ -206,7 +206,7 @@ text-align: right;
   border-radius: 20px;
   color: #ffffff;
   border: 0;
-word-wrap: break-word;
+display: none;
  
 }
 .silver a {
@@ -218,5 +218,5 @@ word-wrap: break-word;
   text-align: center;
   padding-bottom: 3px;
   padding-top:0;
-word-wrap: break-word;
+display: none;
 }
