@@ -199,4 +199,22 @@ text-align: right;
   h2 {
     font-size: 1.2rem;
   }
+
+.button-silver{
+  background-color: #48466d;
+  padding: 10px 3px 10px;
+  border-radius: 20px;
+  color: #ffffff;
+  border: 0;
+ 
+}
+.silver a {
+  text-decoration: none;
+  padding-bottom: 2px;
+}
+.silver {
+  color: #ffffff;
+  text-align: center;
+  padding-bottom: 3px;
+  padding-top:0;
 }
