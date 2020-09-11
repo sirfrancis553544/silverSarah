@@ -206,6 +206,7 @@ text-align: right;
   border-radius: 20px;
   color: #ffffff;
   border: 0;
+word-wrap: break-word;
  
 }
 .silver a {
