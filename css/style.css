@@ -41,9 +41,9 @@ a {
 a:hover {
   color: #eaf6f6;
 }
-.pro {
+/* .pro {
   text-decoration: underline;
-}
+} */
 .intro {
   width: 50%;
   margin: auto;
@@ -52,10 +52,10 @@ a:hover {
   color: #ffffff;
   text-align: center;
   padding-bottom: 10px;
-  padding-top:0;
+  padding-top: 0;
 }
-.header-link{
-text-align: right;
+.header-link {
+  text-align: right;
 }
 .top-container {
   background-color: #b2ebf2;
@@ -66,19 +66,18 @@ text-align: right;
 .middle-container {
   margin: 100px 0;
 }
-.button-silver{
+.button-silver {
   background-color: #48466d;
   padding: 20px 10px 20px;
   border-radius: 20px;
   color: #ffffff;
   border: 0;
- 
 }
 .silver a {
   text-decoration: none;
   padding-bottom: 10px;
 }
-.button-silver:hover{
+.button-silver:hover {
   background-color: #6d6ba3;
 }
 .bottom-container {
@@ -95,7 +94,7 @@ text-align: right;
   font-size: 0.75rem;
   padding: 20px 0;
 }
-
+/* 
 .code {
   font-size: 40px;
   font-family: "Times New Roman", Times, serif;
@@ -105,8 +104,8 @@ text-align: right;
   position: absolute;
   right: 100px;
   top: 80px;
-}
-.code1 {
+} */
+/* .code1 {
   font-size: 40px;
   font-family: "Times New Roman", Times, serif;
   width: 200px;
@@ -115,8 +114,8 @@ text-align: right;
   position: absolute;
   left: 100px;
   bottom: 200px;
-}
-.logo{
+} */
+.logo {
   width: 90px;
   height: 50px;
   border-radius: 50%;
@@ -199,6 +198,7 @@ text-align: right;
   h2 {
     font-size: 1.2rem;
   }
-#silver{
- display: none;
+  #silver {
+    display: none;
+  }
 }
